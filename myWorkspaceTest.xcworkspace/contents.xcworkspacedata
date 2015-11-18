@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:HelloLib/HelloLib.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:WorkspaceLib/WorkspaceLib.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:WorkspaceApp/WorkspaceApp.xcodeproj">
+   </FileRef>
+</Workspace>
